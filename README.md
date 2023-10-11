@@ -17,7 +17,7 @@ STEPS TO FOLLOW:
 
       python -u "root\classroom doubts\server\server.py"
       
-6.simultaneously run:
+6.simultaneously run each lines in different terminals:
 
       python -u "root\classroom doubts\student1\client.py"
       
