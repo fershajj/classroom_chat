@@ -4,6 +4,7 @@ REQUIREMENTS:
       python
 
 INTRODUCTION:
+
 The Classroom Chat Application is designed to facilitate communication among students and mentors within a local area network (LAN) environment. It serves as a reliable communication channel, particularly in scenarios with limited or disrupted internet access. Here are the key features and functionalities:
 
 LAN-Based Communication: Students can interact with their peers and mentors without relying on the internet. This is especially useful in areas with unstable or limited internet connectivity.
